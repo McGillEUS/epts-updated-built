@@ -104,7 +104,7 @@ const Home = props => {
       </Slider> */}
       <div style={{ justifyContent: "center" }}>
         <img
-          src={require("/Users/sulemanmalik/Desktop/epts-cra/src/images/facebook-cover.png")}
+          src={require("../images/facebook-cover.png")}
           style={{ width: "80%", height: "auto", borderRadius: "5px" }}
         />
       </div>

@@ -40,11 +40,12 @@ const Navbar = props => {
       <div className={props.classes.layout} >
         <Toolbar className={props.classes.toolbarMain} style={{justifyContent:"center"}}>
           <img
-            src={require("/Users/sulemanmalik/Desktop/epts-cra/src/images/Logo-Text.png")}
+            src={require("../images/Logo-Text.png")}
             style={{ width: "200px", height: "auto", borderRadius: "5px"}}
           />
 
           {/* <Typography
+
             component="h1"
             variant="display3"
             color="inherit"

@@ -128,7 +128,7 @@ const Tutors = props => {
             }}
           >
             <img
-              src={require("/Users/sulemanmalik/Desktop/epts-cra/src/images/Defilia.jpg")}
+              src={require("../images/Defilia.jpg")}
               style={{ width: "200px", height: "auto", borderRadius: "5px" }}
             />
           </Grid>
@@ -187,7 +187,7 @@ const Tutors = props => {
             }}
           >
             <img
-              src={require("/Users/sulemanmalik/Desktop/epts-cra/src/images/Defilia.jpg")}
+              src={require("../images/Defilia.jpg")}
               style={{ width: "200px", height: "auto", borderRadius: "5px" }}
             />
           </Grid>
@@ -243,7 +243,7 @@ const Tutors = props => {
             }}
           >
             <img
-              src={require("/Users/sulemanmalik/Desktop/epts-cra/src/images/Defilia.jpg")}
+              src={require("../images/Defilia.jpg")}
               style={{ width: "200px", height: "auto", borderRadius: "5px" }}
             />
           </Grid>
