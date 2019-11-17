@@ -140,16 +140,15 @@ const Home = props => {
           <Divider />
 
           <Typography variant="body1">
-            The Engineering Peer Tutoring Service is a free tutoring service for
-            U0 and U1 engineering students sponsored by the Faculty of
-            Engineering. Tutorial office hours are held on a weekly basis in the
-            McGill Engineering Student Centre on the ground floor of the Frank
-            Dawson Adams Building, Room 6B. (Tutoring was temporarily held in
-            FDA 3 due to construction, but we are now in our normal room again)
-            EPTS tutors can answer some of the most challenging questions and
-            help give students what they need to obtain results in their
-            respective field of study. EPTS also offers direct contact with an
-            upper-year student who has already been through the program!
+          The Engineering Peer Tutoring Service is a free tutoring service for
+           U0 and U1 engineering students sponsored by the 
+           Faculty of Engineering. Tutorial office hours are held on a weekly basis 
+           in the McGill Engineering Student Centre on the ground floor of 
+           the Frank Dawson Adams Building, Room 6B.  EPTS tutors can answer 
+           some of the most challenging questions and help give students what 
+           they need to obtain results in their respective field of study. 
+           EPTS also offers direct contact with an upper-year student who has 
+           already been through the program!
           </Typography>
 
           <br />
@@ -161,13 +160,13 @@ const Home = props => {
           <Divider />
 
           <Typography variant="body1" gutterBottom>
-            The application period will begin on August 15 and end on September
-            9. Interviews will be conducted on the second week of class
-            September 12th-16th. To apply, applicants must specify which classes
-            they want to tutor as well as send a copy of their transcript, and
-            resume to epts@mcgilleus.ca by the deadline. Applicants will be
-            contacted about interviews by the latest on September 11th. In order
-            to be eligible all applicants must meet the following requirements:
+          The application period will begin in the first week of each semester.
+           Key dates will be posted closer to the application period.To apply, 
+           applicants must specify which classes they want to tutor as well as 
+           send a copy of their transcript, and resume to epts@mcgilleus.ca by 
+           the deadline. Applicants will be contacted about interviews by the 
+           second week of the semester at the latest. In order to be eligible 
+           all applicants must meet the following requirements
             <br />
             • Currently be an undergraduate student in the faculty of
             Engineering
@@ -200,11 +199,19 @@ const Home = props => {
               Updates
             </Typography>
             <Typography>
-              Etiam porta sem malesuada magna mollis euismod. Cras mattis
-              consectetur purus sit amet fermentum. Aenean lacinia bibendum
-              nulla sed consectetur.
+            Planned midterm and final review sessions for this 
+            semester are posted on our Facebook page, click  
+            <a href="https://www.facebook.com/pg/epts.mcgill/events"> here</a>
+            
+
+
             </Typography>
           </Paper>
+
+          
+
+
+
           <Typography
             variant="h6"
             gutterBottom
@@ -218,7 +225,9 @@ const Home = props => {
             gutterBottom
             className={classes.sidebarSection}
           >
-            Social
+            <b>Social:</b><br></br>
+            Find out more information about our service on our Facebook page:
+            <a href="https://www.facebook.com/epts.mcgill/"> click here</a>
           </Typography>
         </Grid>
       </Grid>

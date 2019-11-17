@@ -21,7 +21,7 @@ const Footer = (props) => {
             color="textSecondary"
             component="p"
           >
-            Engineering Peer tutoring Services 2019
+            Engineering Peer Tutoring Services 2019
           </Typography>
         </footer>
   )

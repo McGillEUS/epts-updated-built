@@ -15,7 +15,8 @@ const Testimonial = props => {
       </Typography>
 
       <Typography variant="body1">
-        The following testimonials are from students who frequently used the
+        The following testimonials are from students who 
+        frequently used the
         service.
       </Typography>
 
@@ -30,10 +31,10 @@ const Testimonial = props => {
       </Typography>
 
       <Typography variant="body1">
-        "EPTS has helped me to better understand each professorâ€™s style of
+        "EPTS has helped me to better understand each professor's style of
         questions, and what to focus on to succeed in my courses. It has also
         helped me have a thorough understanding of my courses which would not
-        have been possible with just lectures and tutorials." "The tutors help
+        have been possible with just lectures and tutorials." <br></br>"The tutors help
         us with basic knowledge of each class by going through everything before
         giving us examples from past midterms and assignments with different
         difficulty levels. Also, we have the chance of having review sessions
@@ -79,7 +80,7 @@ const Testimonial = props => {
 
       <Typography variant="body1">
         "The EPTS tutors this year did an excellent job to help us understand
-        the course content. I donâ€™t think there is any change Iâ€™d like to
+        the course content. I don't think there is any change I'd like to
         see when it comes to the method of tutoring. Although, it would be great
         to have a booklet for every course with notes and practice problems." "I
         will like EPTS to provide new markers, so we can read what is on the

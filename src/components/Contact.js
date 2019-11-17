@@ -67,7 +67,7 @@ const Contact = props => {
           <TableBody>
             <TableRow>
               <TableCell>Chemical Engineering</TableCell>
-              <TableCell>epts.chem@mcgilleus.ca</TableCell>
+              <TableCell>epts.chee@mcgilleus.ca</TableCell>
             </TableRow>
 
             <TableRow>
@@ -76,9 +76,25 @@ const Contact = props => {
             </TableRow>
 
             <TableRow>
-              <TableCell>ECSESS</TableCell>
+              <TableCell>BioEngineering</TableCell>
               <TableCell>epts.ecse@mcgilleus.ca</TableCell>
             </TableRow>
+
+            <TableRow>
+              <TableCell>Materials Engineering</TableCell>
+              <TableCell>epts.ecse@mcgilleus.ca</TableCell>
+            </TableRow>
+
+            <TableRow>
+              <TableCell>Software Engineering</TableCell>
+              <TableCell>epts.ecse@mcgilleus.ca</TableCell>
+            </TableRow>
+
+            <TableRow>
+              <TableCell>Computer Engineering</TableCell>
+              <TableCell>epts.ecse@mcgilleus.ca</TableCell>
+            </TableRow>
+
 
             <TableRow>
               <TableCell>Mechanical Engineering</TableCell>
@@ -113,6 +129,8 @@ const Contact = props => {
               <TableCell>Computer Science</TableCell>
               <TableCell>epts.comp@mcgilleus.ca</TableCell>
             </TableRow>
+
+            
           </TableBody>
         </Table>
       </Paper>
