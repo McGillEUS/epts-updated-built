@@ -12,7 +12,7 @@ const Schedule = props => {
     <div>
       <Grid direction="row" justifyContent="center" justify="center" alignContent="center" alignItems="center">
         <img
-          src={require("../images/W20_EPTS_Schedule.png")}
+          src={require("../images/F20.png")}
           style={{ width: "100%", height: "auto", borderRadius: "15px" }}
         />
       </Grid>

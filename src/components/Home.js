@@ -134,6 +134,32 @@ const Home = props => {
         {/* Main content */}
         <Grid item xs={12} md={8}>
           <Typography variant="h6" gutterBottom>
+          COVID-19 Updates
+          </Typography>
+
+          <Divider />
+
+          <Typography variant="body1">
+          All our tutoring services for the Fall 2020 semester will be offered
+          remotely and we intend to maintain the excellent standard of tutoring
+          that the students have come to expect.
+          To facilitate this online transition, all EPTS Tutors will now have 
+          separate MyCourses pages that will allow students to directly interact
+          with tutors, access helpful material that the tutor will post,
+          and find all the Zoom links and announcements for the tutor's weekly office 
+          hours and exam review sessions. 
+
+          Please fill out the following form to register for the EPTS MyCourses 
+          pages:<br></br>
+
+
+          <a href="https://forms.gle/Lat3dmnAfNAyFR9Z8"> HERE </a> <br></br>
+          For any immediate questions please email <a href="mailto:epts@mcgilleus.ca">epts@mcgilleus.ca</a>
+          </Typography>
+
+          <br />
+
+          <Typography variant="h6" gutterBottom>
             Welcome
           </Typography>
 
