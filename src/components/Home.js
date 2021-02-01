@@ -140,7 +140,7 @@ const Home = props => {
           <Divider />
 
           <Typography variant="body1">
-          All our tutoring services for the Fall 2020 semester will be offered
+          All our tutoring services for the Winter 2021 semester will be offered
           remotely and we intend to maintain the excellent standard of tutoring
           that the students have come to expect.
           To facilitate this online transition, all EPTS Tutors will now have 
@@ -153,7 +153,7 @@ const Home = props => {
           pages:<br></br>
 
 
-          <a href="https://forms.gle/Lat3dmnAfNAyFR9Z8"> HERE </a> <br></br>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLScb9xDS5kbnTaMzb37dSjz3osBiUkCFSYlhaYkP2WEcv7_HAA/viewform"> HERE </a> <br></br>
           For any immediate questions please email <a href="mailto:epts@mcgilleus.ca">epts@mcgilleus.ca</a>
           </Typography>
 
